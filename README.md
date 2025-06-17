@@ -1,3 +1,2 @@
-# today-project
-one more practice <br>
-trying once again
+# Password Generator <br>
+generating passwords randomly
